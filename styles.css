@@ -83,3 +83,6 @@ form p{
 .container div{
     padding:2px;
 }
+#email-required{
+    padding:10px;
+}
